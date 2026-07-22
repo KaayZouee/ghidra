@@ -63,8 +63,10 @@ src/decompile/datatests/nestedoffset.xml||GHIDRA||||END|
 src/decompile/datatests/noforloop_alias.xml||GHIDRA||||END|
 src/decompile/datatests/noforloop_globcall.xml||GHIDRA||||END|
 src/decompile/datatests/noforloop_iterused.xml||GHIDRA||||END|
+src/decompile/datatests/offcut.xml||GHIDRA||||END|
 src/decompile/datatests/offsetarray.xml||GHIDRA||||END|
 src/decompile/datatests/orcompare.xml||GHIDRA||||END|
+src/decompile/datatests/overridedest.xml||GHIDRA||||END|
 src/decompile/datatests/packstructaccess.xml||GHIDRA||||END|
 src/decompile/datatests/partialmerge.xml||GHIDRA||||END|
 src/decompile/datatests/partialsplit.xml||GHIDRA||||END|
@@ -88,6 +90,7 @@ src/decompile/datatests/statuscmp.xml||GHIDRA||||END|
 src/decompile/datatests/switchhide.xml||GHIDRA||||END|
 src/decompile/datatests/switchind.xml||GHIDRA||||END|
 src/decompile/datatests/switchloop.xml||GHIDRA||||END|
+src/decompile/datatests/switchmask.xml||GHIDRA||||END|
 src/decompile/datatests/switchmulti.xml||GHIDRA||||END|
 src/decompile/datatests/switchreturn.xml||GHIDRA||||END|
 src/decompile/datatests/threedim.xml||GHIDRA||||END|
@@ -95,6 +98,7 @@ src/decompile/datatests/twodim.xml||GHIDRA||||END|
 src/decompile/datatests/union_datatype.xml||GHIDRA||||END|
 src/decompile/datatests/varcross.xml||GHIDRA||||END|
 src/decompile/datatests/wayoffarray.xml||GHIDRA||||END|
+src/decompile/datatests/wraprange.xml||GHIDRA||||END|
 src/decompile/zlib/README.txt||GHIDRA||||END|
 src/main/doc/commonprofile.xsl||GHIDRA||||END|
 src/main/doc/cspec.xml||GHIDRA||||END|
